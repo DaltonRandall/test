@@ -10,11 +10,19 @@ implicit_header_references!
 #. And this
 
 Term 1
-~ Definition
-    This is the first definition[^1]
-    Still the first
-~ Second def
-    Woah, second
+  ~ Definition
+      This is the first definition[^1]
+      Still the first
+  ~ Second def
+      Woah, second
+
+Term 2
+
+: Alternative definition
+    Here is at using definitions is alternative form
 
 
-[1^]: Footnote associated with definition 1
+Not in definition 2[^2].
+
+[^1]: Footnote associated with definition 1
+[^2]: Footnote associated with stuff after def 2
