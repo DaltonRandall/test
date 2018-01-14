@@ -1,0 +1,20 @@
+# README
+## Notes
+This is a README for the test directory. Mainly for, well, testing.
+
+See [Notes]. Isn't this cool? You can easily refer to headers thanks to 
+implicit_header_references!
+
+#. Also, you can more easily number things
+#. Like this! 
+#. And this
+
+Term 1
+~ Definition
+    This is the first definition[^1]
+    Still the first
+~ Second def
+    Woah, second
+
+
+[1^]: Footnote associated with definition 1
