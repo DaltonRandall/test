@@ -7,22 +7,6 @@ implicit_header_references!
 
 #. Also, you can more easily number things
 #. Like this! 
-#. And this
+#. And this[^1].
 
-Term 1
-  ~ Definition
-      This is the first definition[^1]
-      Still the first
-  ~ Second def
-      Woah, second
-
-Term 2
-
-: Alternative definition
-    Here is at using definitions is alternative form
-
-
-Not in definition 2[^2].
-
-[^1]: Footnote associated with definition 1
-[^2]: Footnote associated with stuff after def 2
+[^1]: Footnote
